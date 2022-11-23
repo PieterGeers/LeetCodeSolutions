@@ -1,0 +1,16 @@
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\bin\Debug\net5.0\704. Binary Search.exe
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\bin\Debug\net5.0\704. Binary Search.deps.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\bin\Debug\net5.0\704. Binary Search.runtimeconfig.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\bin\Debug\net5.0\704. Binary Search.runtimeconfig.dev.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\bin\Debug\net5.0\704. Binary Search.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\bin\Debug\net5.0\ref\704. Binary Search.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\bin\Debug\net5.0\704. Binary Search.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\obj\Debug\net5.0\704. Binary Search.csproj.AssemblyReference.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\obj\Debug\net5.0\704. Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\obj\Debug\net5.0\704. Binary Search.AssemblyInfoInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\obj\Debug\net5.0\704. Binary Search.AssemblyInfo.cs
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\obj\Debug\net5.0\704. Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\obj\Debug\net5.0\704. Binary Search.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\obj\Debug\net5.0\ref\704. Binary Search.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\obj\Debug\net5.0\704. Binary Search.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\704. Binary Search\obj\Debug\net5.0\704. Binary Search.genruntimeconfig.cache

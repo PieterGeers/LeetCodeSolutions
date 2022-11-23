@@ -1,0 +1,16 @@
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\bin\Debug\net5.0\35. Search Insert Position.exe
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\bin\Debug\net5.0\35. Search Insert Position.deps.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\bin\Debug\net5.0\35. Search Insert Position.runtimeconfig.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\bin\Debug\net5.0\35. Search Insert Position.runtimeconfig.dev.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\bin\Debug\net5.0\35. Search Insert Position.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\bin\Debug\net5.0\ref\35. Search Insert Position.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\bin\Debug\net5.0\35. Search Insert Position.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\obj\Debug\net5.0\35. Search Insert Position.csproj.AssemblyReference.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\obj\Debug\net5.0\35. Search Insert Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\obj\Debug\net5.0\35. Search Insert Position.AssemblyInfoInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\obj\Debug\net5.0\35. Search Insert Position.AssemblyInfo.cs
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\obj\Debug\net5.0\35. Search Insert Position.csproj.CoreCompileInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\obj\Debug\net5.0\35. Search Insert Position.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\obj\Debug\net5.0\ref\35. Search Insert Position.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\obj\Debug\net5.0\35. Search Insert Position.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\35. Search Insert Position\obj\Debug\net5.0\35. Search Insert Position.genruntimeconfig.cache

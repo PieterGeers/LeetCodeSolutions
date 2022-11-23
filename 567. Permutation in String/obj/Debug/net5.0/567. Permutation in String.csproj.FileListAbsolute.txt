@@ -1,0 +1,16 @@
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\bin\Debug\net5.0\567. Permutation in String.exe
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\bin\Debug\net5.0\567. Permutation in String.deps.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\bin\Debug\net5.0\567. Permutation in String.runtimeconfig.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\bin\Debug\net5.0\567. Permutation in String.runtimeconfig.dev.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\bin\Debug\net5.0\567. Permutation in String.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\bin\Debug\net5.0\ref\567. Permutation in String.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\bin\Debug\net5.0\567. Permutation in String.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\obj\Debug\net5.0\567. Permutation in String.csproj.AssemblyReference.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\obj\Debug\net5.0\567. Permutation in String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\obj\Debug\net5.0\567. Permutation in String.AssemblyInfoInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\obj\Debug\net5.0\567. Permutation in String.AssemblyInfo.cs
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\obj\Debug\net5.0\567. Permutation in String.csproj.CoreCompileInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\obj\Debug\net5.0\567. Permutation in String.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\obj\Debug\net5.0\ref\567. Permutation in String.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\obj\Debug\net5.0\567. Permutation in String.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\567. Permutation in String\obj\Debug\net5.0\567. Permutation in String.genruntimeconfig.cache

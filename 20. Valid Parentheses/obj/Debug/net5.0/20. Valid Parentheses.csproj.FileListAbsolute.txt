@@ -1,0 +1,16 @@
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\bin\Debug\net5.0\20. Valid Parentheses.exe
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\bin\Debug\net5.0\20. Valid Parentheses.deps.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\bin\Debug\net5.0\20. Valid Parentheses.runtimeconfig.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\bin\Debug\net5.0\20. Valid Parentheses.runtimeconfig.dev.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\bin\Debug\net5.0\20. Valid Parentheses.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\bin\Debug\net5.0\ref\20. Valid Parentheses.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\bin\Debug\net5.0\20. Valid Parentheses.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\obj\Debug\net5.0\20. Valid Parentheses.csproj.AssemblyReference.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\obj\Debug\net5.0\20. Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\obj\Debug\net5.0\20. Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\obj\Debug\net5.0\20. Valid Parentheses.AssemblyInfo.cs
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\obj\Debug\net5.0\20. Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\obj\Debug\net5.0\20. Valid Parentheses.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\obj\Debug\net5.0\ref\20. Valid Parentheses.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\obj\Debug\net5.0\20. Valid Parentheses.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\20. Valid Parentheses\obj\Debug\net5.0\20. Valid Parentheses.genruntimeconfig.cache

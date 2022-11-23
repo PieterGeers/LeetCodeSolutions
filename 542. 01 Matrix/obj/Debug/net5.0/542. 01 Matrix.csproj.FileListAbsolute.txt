@@ -1,0 +1,16 @@
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\bin\Debug\net5.0\542. 01 Matrix.exe
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\bin\Debug\net5.0\542. 01 Matrix.deps.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\bin\Debug\net5.0\542. 01 Matrix.runtimeconfig.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\bin\Debug\net5.0\542. 01 Matrix.runtimeconfig.dev.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\bin\Debug\net5.0\542. 01 Matrix.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\bin\Debug\net5.0\ref\542. 01 Matrix.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\bin\Debug\net5.0\542. 01 Matrix.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\obj\Debug\net5.0\542. 01 Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\obj\Debug\net5.0\542. 01 Matrix.AssemblyInfoInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\obj\Debug\net5.0\542. 01 Matrix.AssemblyInfo.cs
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\obj\Debug\net5.0\542. 01 Matrix.csproj.CoreCompileInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\obj\Debug\net5.0\542. 01 Matrix.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\obj\Debug\net5.0\ref\542. 01 Matrix.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\obj\Debug\net5.0\542. 01 Matrix.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\obj\Debug\net5.0\542. 01 Matrix.genruntimeconfig.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\542. 01 Matrix\obj\Debug\net5.0\542. 01 Matrix.csproj.AssemblyReference.cache

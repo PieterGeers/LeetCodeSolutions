@@ -1,0 +1,16 @@
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\bin\Debug\net5.0\1. Two Sum.exe
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\bin\Debug\net5.0\1. Two Sum.deps.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\bin\Debug\net5.0\1. Two Sum.runtimeconfig.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\bin\Debug\net5.0\1. Two Sum.runtimeconfig.dev.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\bin\Debug\net5.0\1. Two Sum.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\bin\Debug\net5.0\ref\1. Two Sum.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\bin\Debug\net5.0\1. Two Sum.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\obj\Debug\net5.0\1. Two Sum.csproj.AssemblyReference.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\obj\Debug\net5.0\1. Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\obj\Debug\net5.0\1. Two Sum.AssemblyInfoInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\obj\Debug\net5.0\1. Two Sum.AssemblyInfo.cs
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\obj\Debug\net5.0\1. Two Sum.csproj.CoreCompileInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\obj\Debug\net5.0\1. Two Sum.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\obj\Debug\net5.0\ref\1. Two Sum.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\obj\Debug\net5.0\1. Two Sum.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\1. Two Sum\obj\Debug\net5.0\1. Two Sum.genruntimeconfig.cache

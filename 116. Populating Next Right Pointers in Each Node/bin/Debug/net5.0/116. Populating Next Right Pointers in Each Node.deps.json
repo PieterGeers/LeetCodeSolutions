@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "116. Populating Next Right Pointers in Each Node/1.0.0": {
+        "runtime": {
+          "116. Populating Next Right Pointers in Each Node.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "116. Populating Next Right Pointers in Each Node/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\bin\Debug\net5.0\695. Max Area of Island.exe
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\bin\Debug\net5.0\695. Max Area of Island.deps.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\bin\Debug\net5.0\695. Max Area of Island.runtimeconfig.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\bin\Debug\net5.0\695. Max Area of Island.runtimeconfig.dev.json
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\bin\Debug\net5.0\695. Max Area of Island.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\bin\Debug\net5.0\ref\695. Max Area of Island.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\bin\Debug\net5.0\695. Max Area of Island.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\obj\Debug\net5.0\695. Max Area of Island.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\obj\Debug\net5.0\695. Max Area of Island.AssemblyInfoInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\obj\Debug\net5.0\695. Max Area of Island.AssemblyInfo.cs
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\obj\Debug\net5.0\695. Max Area of Island.csproj.CoreCompileInputs.cache
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\obj\Debug\net5.0\695. Max Area of Island.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\obj\Debug\net5.0\ref\695. Max Area of Island.dll
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\obj\Debug\net5.0\695. Max Area of Island.pdb
+C:\Users\pgeer\Desktop\LeetCodeSolution\695. Max Area of Island\obj\Debug\net5.0\695. Max Area of Island.genruntimeconfig.cache
