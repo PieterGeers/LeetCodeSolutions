@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6._Zigzag_Conversion", "6._
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8._String_to_Integer", "8._String_to_Integer\8._String_to_Integer.csproj", "{5FAE8BAA-49D6-4153-98F9-AD87881DEF96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11._Container_With_Most_Water", "11._Container_With_Most_Water\11._Container_With_Most_Water.csproj", "{F9FABAA0-3C74-4725-9042-9EA0E3BBF195}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{5FAE8BAA-49D6-4153-98F9-AD87881DEF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FAE8BAA-49D6-4153-98F9-AD87881DEF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FAE8BAA-49D6-4153-98F9-AD87881DEF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FABAA0-3C74-4725-9042-9EA0E3BBF195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FABAA0-3C74-4725-9042-9EA0E3BBF195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FABAA0-3C74-4725-9042-9EA0E3BBF195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FABAA0-3C74-4725-9042-9EA0E3BBF195}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
